@@ -53,6 +53,11 @@ This project is designed to automate GST invoice generation by calculating GST b
 - Allows updating the booking status.
 - Shows real-time logs and booking updates using Socket.IO.
 
+## UI Layout
+
+### Layout Image
+![UI Layout](image.jpg)
+
 ## Installation and Setup
 
 ### Prerequisites
