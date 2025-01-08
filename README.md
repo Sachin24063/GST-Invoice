@@ -63,8 +63,8 @@ This project is designed to automate GST invoice generation by calculating GST b
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd GST
+   git clone (https://github.com/Sachin24063/GST-Invoice.git)
+   cd GST-Invoice
    ```
 
 2. **Backend Setup (FastAPI):**
@@ -111,10 +111,3 @@ This project is designed to automate GST invoice generation by calculating GST b
 ### Express.js
 - `GET /bookings`: Fetch all bookings.
 - `PUT /bookings/:id`: Update the status of a booking.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
